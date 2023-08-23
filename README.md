@@ -16,3 +16,7 @@
 
 - Get user list: https://jsonplaceholder.typicode.com/users (GET)
 - Get avatar: [https://avatars.dicebear.com/v2/avataaars/{{user_name}}.svg?options[mood][]=happy](https://avatars.dicebear.com/v2/avataaars/%7B%7Busername%7D%7D.svg?options%5Bmood%5D%5B%5D=happy) (GET)
+
+### Deployment
+
+Vercel link: https://react-coding-assignment-beta.vercel.app/
